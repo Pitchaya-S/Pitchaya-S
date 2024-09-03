@@ -1,5 +1,3 @@
-⁤👋 Hi there! ⁤⁤I'm Mix, a passionate student dreaming to become an AI researcher.⁤⁤ ⁤⁤I'm excited to collaborate on innovative projects, contribute to open-source communities, and turn ideas into reality through code. ⁤⁤Let's connect and build the future together! ⁤⁤🚀 
-
 # Languages & Tools
 
 ![](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
